@@ -1,0 +1,4 @@
+Hello from within the command line!
+This is a new line
+012345678910
+Hello from Python!

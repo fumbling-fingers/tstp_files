@@ -1,0 +1,5 @@
+Python Tutorial: OS Module - Use Underlying Operating System Functionality
+https://youtu.be/tJxcKyFMTGo
+
+Python Tutorial: File Objects - Reading and Writing to Files
+https://youtu.be/Uh2ebFW8OYM
